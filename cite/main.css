@@ -1,0 +1,22 @@
+body {
+	background-color: green;	
+	font-family: 'Rubik Mono One', sans-serif;
+}
+img {
+	max-width: 100%;
+}
+div {
+	max-width: 900px;
+	margin: auto;
+	 background-color: #fff;
+	 padding: 40px;
+
+
+
+}
+
+@media (max-width: 480px) {
+	div{
+		padding: 30px 15px;
+	}
+}
